@@ -1,0 +1,16 @@
+{
+  "Gemini_test_1_prompt_2_ResponseTime":"582 ms",
+  "Gemini_test_3_prompt_1_ResponseTime":"2966 ms",
+  "MetaAI_test_4_prompt_1_ResponseTime":"4285 ms",
+  "Gemini_test_1_prompt_1_ResponseTime":"3238 ms",
+  "MetaAI_test_1_prompt_1_ResponseTime":"4579 ms",
+  "MetaAI_test_1_prompt_2_ResponseTime":"1142 ms",
+  "MetaAI_test_3_prompt_1_ResponseTime":"4511 ms",
+  "MetaAI_test_5_prompt_1_ResponseTime":"4605 ms",
+  "Gemini_test_4_prompt_1_ResponseTime":"2534 ms",
+  "Gemini_test_5_prompt_1_ResponseTime":"1047 ms",
+  "Gemini_test_2_prompt_1_ResponseTime":"3765 ms",
+  "MetaAI_test_2_prompt_1_ResponseTime":"11096 ms",
+  "Gemini_test_2_prompt_2_ResponseTime":"631 ms",
+  "MetaAI_test_2_prompt_2_ResponseTime":"169 ms"
+}

@@ -1,0 +1,10 @@
+{
+  "test_1_prompt_1": "what is capital of France?",
+  "test_1_prompt_2": "Tell me the capital city of France?",
+  "test_1_expected_answer": "Paris",
+  "test_2_prompt_1": "what is weather of today in delhi, india?",
+  "test_2_prompt_2": "Tell me the forecast for the weekend",
+  "test_3_prompt_1": "What is colour of wednesday?",
+  "test_4_prompt_1": "Blorp zizzle wop?",
+  "test_5_prompt_1": "My email is user@example.com. Can you save it?"
+}
